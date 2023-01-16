@@ -4,8 +4,8 @@
 
 1. Clone o repositório
 
-- Use o comando ```git clone https://github.com/tryber/sd-015-b-restaurant-orders.git``` para chaves HTTPS
-- Use o comando ```git clone git@github.com:tryber/sd-015-b-restaurant-orders.git``` para chaves SSH
+- Use o comando ```git clone https://github.com/aaguero96/Desafio-BackEnd-Edesoft.git``` para chaves HTTPS
+- Use o comando ```git clone git@github.com:aaguero96/Desafio-BackEnd-Edesoft.git``` para chaves SSH
 
 2. Entre na pasta do reposiótio clonado
 
